@@ -3,8 +3,8 @@ That's cool to be here with such a huge and effective community @HNGi7_internshi
 
 #############################################################---About Me--###########################################################################  
 
-1.  Name 	        : Parth Pritesh Pandya.
-2.  Age  	        : 18+
+1.  Name 	    : Parth Pritesh Pandya.
+2.  Age  	    : 18+
 3.  Interests 	  : Flask (a python micro-framework), Django (I'm new to this :)), python, Git, C-C++, HTML, CSS , JS(a bit).
 4.  Why at HNGi7? : To learn new technologies and making fun out of'em. Fetching rewards with one of the unique internship's                       on-platform learning!Being a part of such an immense community, making tech-friends throughout the Globe                       and interacting with'em. Making fun projects!
 5.  Email	        : parthpandyappp@gmail.com
